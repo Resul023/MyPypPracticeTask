@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Test\\SqlTask\\SqlTask\\SqlTask.csproj": {}
+    "C:\\Users\\User\\Desktop\\12.01.2023\\SqlTask\\SqlTask\\SqlTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Test\\SqlTask\\SqlTask\\SqlTask.csproj": {
+    "C:\\Users\\User\\Desktop\\12.01.2023\\SqlTask\\SqlTask\\SqlTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Test\\SqlTask\\SqlTask\\SqlTask.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\12.01.2023\\SqlTask\\SqlTask\\SqlTask.csproj",
         "projectName": "SqlTask",
-        "projectPath": "C:\\Users\\User\\Desktop\\Test\\SqlTask\\SqlTask\\SqlTask.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\12.01.2023\\SqlTask\\SqlTask\\SqlTask.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Test\\SqlTask\\SqlTask\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\12.01.2023\\SqlTask\\SqlTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
